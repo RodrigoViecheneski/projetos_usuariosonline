@@ -1,0 +1,1 @@
+Verifica quantos usuarios estão conectados.
